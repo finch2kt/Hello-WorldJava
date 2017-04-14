@@ -4,7 +4,7 @@
  *@author Kashaun Finch
  *@verion V1.0, 2/20/17
  */
-public class HelloWorld
+public class Hello
 {
    public static void main(String[] args)
   {
